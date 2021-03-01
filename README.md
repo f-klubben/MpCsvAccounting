@@ -26,6 +26,8 @@ To generate CSV and PDFs for the example, pass input file and appendix start num
 ```
 The output, 123-128.csv and PDF directory 123-128/, is located in the project root.
 
+Note that the appendix start number refers to the current appendix start number present in your bookkeeping software.
+
 The config file in config/config.ini is where transfers to the MP number to be processed is defined. Change this if transfers are for something other than Stregsystemet (e.g. sales for the Fyttetur auction).
 
 ## License
